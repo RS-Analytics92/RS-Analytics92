@@ -10,6 +10,6 @@ I'm aspiring **Data Analyst** currently completing the **Google Data Analytics P
 
 🔗 **Let's connect:**
 
-- [LinkedIn](linkedin.com/in/rafal-sypniewski-a1749935b)  
+- [LinkedIn](https://www.linkedin.com/in/rafal-sypniewski-a1749935b/)  
 
 😄 Thanks for visiting my profile! 😄
