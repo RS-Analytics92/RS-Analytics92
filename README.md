@@ -12,8 +12,13 @@ My work focuses on transforming raw data into clear insights and business-ready 
 - Relational databases, star schemas, data transformation
 
 ## Selected Projects
-- **Rossmann Store Sales Analysis** – SQL ETL, star schema, analytical dashboard  
-  https://github.com/RS-Analytics92/Rossmann_Store_Sales_Analysis
+End-to-end analytical case studies showcasing SQL ETL, data modeling and dashboard design.
+
+- **[Rossmann Store Sales Analysis](https://github.com/RS-Analytics92/Rossmann_Store_Sales_Analysis)**  
+  SQL ETL, star schema design, business dashboard
+
+## Portfolio
+All analytical projects are available on my GitHub profile.
 
 ## Contact
 **Email:** rs.analytics92@gmail.com  
