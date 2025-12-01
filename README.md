@@ -1,15 +1,20 @@
-## Hi there 👋
+# Rafal Sypniewski
 
-I'm aspiring **Data Analyst** currently completing the **Google Data Analytics Professional Certificate**.
+**Data Analyst | SQL • Power BI • Data Modeling • ETL**
 
-🌱 I’m learning: SQL, Excel, Tableau, Power BI, R  
-📈 Building projects to showcase my data skills  
-🌍 Open to Remote Work opportunities  
+I build end-to-end analytical solutions using SQL, dimensional modeling and Power BI.  
+My work focuses on transforming raw data into clear insights and business-ready dashboards.
 
----
+## Core Skills
+- SQL (ETL workflows, CTEs, window functions, data cleaning)
+- Power BI (data modeling, DAX, dashboard design)
+- Business analysis and insight generation
+- Relational databases, star schemas, data transformation
 
-🔗 **Let's connect:**
+## Selected Projects
+- **Rossmann Store Sales Analysis** – SQL ETL, star schema, analytical dashboard  
+  https://github.com/RS-Analytics92/Rossmann_Store_Sales_Analysis
 
-- [LinkedIn](https://www.linkedin.com/in/rafal-sypniewski-a1749935b/)  
-
-😄 Thanks for visiting my profile! 😄
+## Contact
+**Email:** rs.analytics92@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/rafal-sypniewski/
